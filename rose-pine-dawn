@@ -7,21 +7,24 @@ color=faf4ed 575279
 [colors]
 background=faf4ed
 foreground=575279
+
 regular0=f2e9e1     # black (Overlay)
 regular1=b4637a     # red (Love)
 regular2=56949f     # green (Foam)
 regular3=ea9d34     # yellow (Gold)
-regular4=31748f     # blue (Pine)
+regular4=286983     # blue (Pine)
 regular5=907aa9     # magenta (Iris)
 regular6=d7827e     # cyan (Rose)
 regular7=575279     # white (Text)
 
-bright0=9893a5      # bright black (Muted)
-bright1=b4637a      # bright red (Love)
-bright2=56949f      # bright green (Foam)
-bright3=ea9d34      # bright yellow (Gold)
-bright4=31748f      # bright blue (Pine)
-bright5=907aa9      # bright magenta (Iris)
-bright6=d7827e      # bright cyan (Rose)
-bright7=575279      # bright white (Text)
+bright0=f7f1eb      # bright black (lighter Overlay)
+bright1=c97c8d      # bright red (lighter Love)
+bright2=6bafbb      # bright green (lighter Foam)
+bright3=ffb65e      # bright yellow (lighter Gold)
+bright4=3a9bb0      # bright blue (lighter Pine)
+bright5=a690c0      # bright magenta (lighter Iris)
+bright6=ec9d99      # bright cyan (lighter Rose)
+bright7=726f8c      # bright white (lighter Text)
+
+flash=ea9d34        # yellow (Gold)
 
